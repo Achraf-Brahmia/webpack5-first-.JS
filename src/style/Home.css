@@ -1,0 +1,14 @@
+body{
+    background-color: darkblue;
+}
+
+input{
+    border: 1px solid;
+    outline: none;
+}
+
+button{
+    border: 1px solid blueviolet;
+    background-color: blueviolet;
+    color: white;
+}
